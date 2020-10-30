@@ -25,7 +25,7 @@ body{
 	color: white;
 }
 .col:hover{
-	background-color: #f7bc74;
+	background-color: #f77474;
 }
 .border-b{
 	border-bottom: 5px solid white;
@@ -62,7 +62,7 @@ h1{
 	display: inline-block;
 }
 .no-hover{
-	background-color: steelblue;
+	background-color: rgb(149, 70, 180);
 }
 button{
 	border-top:none;
@@ -82,7 +82,7 @@ button{
 }
 button:hover{
 	color:black;
-	background-color:#f7bc74 ;
+	background-color:#74f7d0f8 ;
 }
 #score{
 	margin-top: 50px;
